@@ -1,0 +1,21 @@
+{
+  "name": "bittorrentclient",
+  "version": "1.0.0",
+  "description": "torrent client in js which will download the torrent files with the torrent file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GIT",
+    "Torrent",
+    "torrent",
+    "bitTorrent"
+  ],
+  "author": "rajasB",
+  "license": "MIT",
+  "dependencies": {
+    "node-bencode": "^0.0.0",
+    "q": "^1.5.1"
+  }
+}
